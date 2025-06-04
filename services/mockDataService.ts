@@ -54,7 +54,7 @@ export const mockReels: ReelContent[] = [
   {
     id: '1',
     type: 'image',
-    sourceUrl: 'https://picsum.photos/seed/science_relativity/400/700',
+    sourceUrl: '/videos/stoichiometry.mp4',
     user: { name: 'physics.insights', avatarUrl: 'https://picsum.photos/seed/avatar_physics/40/40' },
     description: 'Exploring Einsteins theory of relativity. A cornerstone of modern physics! #science #physics',
     likes: 1850,
