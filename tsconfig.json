@@ -3,7 +3,7 @@
     "target": "ES2020", // Modern JavaScript
     "module": "ESNext",  // For modern module systems
     "jsx": "react-jsx",  // Modern JSX transform
-    "outDir": "./dist",    // << IMPORTANT: Output directory for compiled JS
+    "outDir": "./docs",    // << IMPORTANT: Output directory for compiled JS
     "rootDir": "./",     // Root of your source files
     "strict": true,
     "esModuleInterop": true,
